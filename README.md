@@ -1,7 +1,7 @@
 # webserver_magnani
 repository per la consegna webserver
 
-# Simple Multithreaded Web Server in Python
+# Web Server in Python
 Caratteristiche principali
 **Gestione Multi-thread**: Ogni connessione client viene gestita in un thread separato per garantire la non-interattività e supportare richieste simultanee.
 * **Routing Dinamico**: Le rotte (URL) e i file associati sono configurabili esternamente tramite YAML.
